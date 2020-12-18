@@ -40,7 +40,7 @@ subtitle = "Antoine de Saint-Exupéry"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "20%", "200px", "20%"]
+  padding = ["300px", "20%", "100px", "20%"]
 
 [advanced]
  # Custom CSS. 
