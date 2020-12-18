@@ -6,7 +6,7 @@ title: Albert Wu
 superuser: true
 
 # Role/position/tagline
-role: Technical Manager
+role: Earth Sciences Technical Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,14 @@ organizations:
   url: https://science.gsfc.nasa.gov/earth/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Earth science technical manager at NASA.
+bio: Earth sciences technical manager at NASA.
 
 # Interests to show in About widget
 interests:
+- Airborne science
 - Microwave and laser remote sensing
 - Software-defined radio
 - Satellite navigation
-- Open science
 
 # Education to show in About widget
 education:
