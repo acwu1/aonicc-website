@@ -29,10 +29,10 @@ education:
   - course: Graduate Certificate in International Science and Technology Policy
     institution: Elliott School of International Affairs
     year: 2018
-  - course: MEng in Aerospace Engineering Sciences
+  - course: M.Eng. in Aerospace Engineering Sciences
     institution: University of Colorado at Boulder
     year: 2010
-  - course: BSc in Aerospace Engineering Sciences
+  - course: B.Sc. in Aerospace Engineering Sciences
     institution: University of Colorado at Boulder
     year: 2008
 
@@ -44,21 +44,26 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://science.gsfc.nasa.gov/sed/bio/albert.wu
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/aonicc/
+
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
+
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+
+- icon: github
+   icon_pack: fab
+   link: https://github.com/gcushen
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/wualbert/
+
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/aonicc/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,5 +79,9 @@ email: ""
 highlight_name: false
 ---
 
-Albert Wu is a technical manager in NASA Goddard Space Flight Center’s Earth Sciences Division (ESD). He currently serves as the ESD Airborne Sciences Support Lead and is the project manager for NASA’s High Mountain Asia Team (HiMAT) as well as the technical manager for the Land, Vegetation, and Ice Sensor (LVIS) airborne laser altimeter. He has over a decade of experience developing and operating airborne remote sensing instruments including hundreds of flight hours on field campaigns investigating soil moisture, snow, ice, and vegetation.
+Albert Wu is a technical manager in NASA Goddard Space Flight Center’s Earth Sciences Division.
+He currently serves as the ESD Airborne Sciences Support Lead and is the project manager for NASA’s <a href = "https://himat.org/" target="_blank">High Mountain Asia Team</a>
+as well as the technical manager for the <a href = "https://lvis.gsfc.nasa.gov/" target="_blank">Land, Vegetation, and Ice Sensor (LVIS)</a> airborne laser altimeter.
+He has over a decade of experience developing and operating airborne remote sensing instruments
+including hundreds of flight hours on field campaigns investigating aspects of the Earth's cryosphere, hydrology, and biodiversity.
 
