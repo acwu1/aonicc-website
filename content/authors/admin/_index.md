@@ -76,4 +76,3 @@ highlight_name: false
 
 Albert Wu is a technical manager in NASA Goddard Space Flight Center’s Earth Sciences Division (ESD). He currently serves as the ESD Airborne Sciences Support Lead and is the project manager for NASA’s High Mountain Asia Team (HiMAT) as well as the technical manager for the Land, Vegetation, and Ice Sensor (LVIS) airborne laser altimeter. He has over a decade of experience developing and operating airborne remote sensing instruments including hundreds of flight hours on field campaigns investigating soil moisture, snow, ice, and vegetation.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

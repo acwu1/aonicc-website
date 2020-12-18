@@ -1,3 +1,6 @@
++++
+active = false
++++
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -27,10 +30,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Airborne Science
+    tag: airborne
+  - name: Cryosphere
+    tag: cryo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
