@@ -58,7 +58,7 @@ social:
   link: https://www.instagram.com/aonicc
 - icon: keybase
   icon_pack: fab
-  link: https://https://keybase.io/aonicc
+  link: https://keybase.io/aonicc
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
