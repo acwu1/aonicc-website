@@ -52,10 +52,13 @@ social:
   link: https://github.com/acwu1
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/wualbert/
+  link: https://www.linkedin.com/in/wualbert
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/aonicc/
+  link: https://www.instagram.com/aonicc
+- icon: keybase
+  icon_pack: fab
+  link: https://https://keybase.io/aonicc
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
