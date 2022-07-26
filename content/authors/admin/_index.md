@@ -53,9 +53,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wualbert
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/aonicc
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/aonicc
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/aonicc
