@@ -18,10 +18,11 @@ bio: Earth sciences technical manager at NASA.
 
 # Interests to show in About widget
 interests:
-- Airborne science
-- Microwave and laser remote sensing
-- Software-defined radio
-- Satellite navigation
+- Rock climbing
+- Smart growth
+- Aviation and drones
+- LGBTQ+ issues
+- Climate and geopolitics
 
 # Education to show in About widget
 education:
@@ -56,9 +57,9 @@ social:
 #- icon: instagram
 #  icon_pack: fab
 #  link: https://www.instagram.com/aonicc
-- icon: keybase
-  icon_pack: fab
-  link: https://keybase.io/aonicc
+#- icon: keybase
+#  icon_pack: fab
+#  link: https://keybase.io/aonicc
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,8 +76,7 @@ highlight_name: false
 ---
 
 Albert Wu is a technical manager in NASA Goddard Space Flight Center’s Earth Sciences Division.
-He currently serves as the ESD Airborne Sciences Support Lead and is the project manager for NASA’s <a href = "https://himat.org/" target="_blank">High Mountain Asia Team</a>
-as well as the technical manager for the <a href = "https://lvis.gsfc.nasa.gov/" target="_blank">Land, Vegetation, and Ice Sensor (LVIS)</a> airborne laser altimeter.
-He has over a decade of experience developing and operating airborne remote sensing instruments
-including hundreds of flight hours on field campaigns investigating aspects of the Earth's cryosphere, hydrology, and biodiversity.
+He currently serves as the ESD Airborne Sciences Support Lead and is the deputy investigation manager for the [Snow4Flow](https://snow4flow.lpl.arizona.edu/) Earth Venture Suborbital (EVS-4) mission.
+He has over a decade of experience planning and executing airborne science missions,
+including hundreds of flight hours on field campaigns investigating aspects of the Earth's atmosphere, cryosphere, hydrology, and biodiversity from South Africa to the Arctic Ocean.
 
