@@ -48,6 +48,9 @@ social:
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/alber.tw
 - icon: github
   icon_pack: fab
   link: https://github.com/acwu1
